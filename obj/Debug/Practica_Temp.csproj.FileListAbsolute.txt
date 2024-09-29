@@ -1,0 +1,10 @@
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\bin\Debug\Practica_Temp.exe.config
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\bin\Debug\Practica_Temp.exe
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\bin\Debug\Practica_Temp.pdb
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.csproj.AssemblyReference.cache
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.Form1.resources
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.Properties.Resources.resources
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.csproj.GenerateResource.cache
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.csproj.CoreCompileInputs.cache
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.exe
+C:\Users\kario\OneDrive\Escritorio\Practica_Temp\obj\Debug\Practica_Temp.pdb
